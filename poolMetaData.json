@@ -3,4 +3,5 @@
 "description": "XSPではステークプール構築日本語マニュアル整備、日本SPOsギルド運営、PoolTool日本語翻訳担当などを通じて、コミュニティ活性化を積極的に取り組んでおります。長期的なプール運営にご協力のほどお願い致します。",
 "ticker": "XSP",
 "homepage": "https://xstakepool.com",
+"extended": "https://raw.githubusercontent.com/btbf/XSP/main/extendedMeta.json"
 }
